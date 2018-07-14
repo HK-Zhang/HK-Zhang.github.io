@@ -25,8 +25,28 @@ let rxjsMethod = "takewhile";
 6. Press F5 to debug and check result at DEBUG CONSOLE
 
 ---
-Rxjs Example List
+## Rxjs Example List
+
 1. Combination
     + [zip](https://github.com/HK-Zhang/Rxjs6-Example/blob/master/Combination/zip.md)
+
+2. Filter
+    + [debounce](https://github.com/HK-Zhang/Rxjs6-Example/blob/master/Filter/debounce.md)
+    + [debounceTime](https://github.com/HK-Zhang/Rxjs6-Example/blob/master/Filter/debounceTime.md)
+    + [distinctUntilChanged](https://github.com/HK-Zhang/Rxjs6-Example/blob/master/Filter/distinctUntilChanged.md)
+    + [filter](https://github.com/HK-Zhang/Rxjs6-Example/blob/master/Filter/filter.md)
+    + [first](https://github.com/HK-Zhang/Rxjs6-Example/blob/master/Filter/first.md)
+    + [ignoreElement](https://github.com/HK-Zhang/Rxjs6-Example/blob/master/Filter/ignoreElement.md)
+    + [last](https://github.com/HK-Zhang/Rxjs6-Example/blob/master/Filter/last.md)
+    + [sample](https://github.com/HK-Zhang/Rxjs6-Example/blob/master/Filter/sample.md)
+    + [single](https://github.com/HK-Zhang/Rxjs6-Example/blob/master/Filter/single.md)
+    + [skip](https://github.com/HK-Zhang/Rxjs6-Example/blob/master/Filter/skip.md)
+    + [skipUntil](https://github.com/HK-Zhang/Rxjs6-Example/blob/master/Filter/skipUntil.md)
+    + [skipWhile](https://github.com/HK-Zhang/Rxjs6-Example/blob/master/Filter/skipWhile.md)
+    + [take](https://github.com/HK-Zhang/Rxjs6-Example/blob/master/Filter/take.md)
+    + [takeUntil](https://github.com/HK-Zhang/Rxjs6-Example/blob/master/Filter/takeUntil.md)
+    + [takeWhile](https://github.com/HK-Zhang/Rxjs6-Example/blob/master/Filter/takeWhile.md)
+    + [throttle](https://github.com/HK-Zhang/Rxjs6-Example/blob/master/Filter/throttle.md)
+    + [throttletime](https://github.com/HK-Zhang/Rxjs6-Example/blob/master/Filter/throttletime.md)
 
 [vs]: https://code.visualstudio.com
