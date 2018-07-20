@@ -28,6 +28,12 @@ let rxjsMethod = "takewhile";
 ## Rxjs Example List
 
 1. Combination
+    + [merge](https://github.com/HK-Zhang/Rxjs6-Example/blob/master/Combination/merge.md)
+    + [mergeAll](https://github.com/HK-Zhang/Rxjs6-Example/blob/master/Combination/mergeAll.md)
+    + [pairwise](https://github.com/HK-Zhang/Rxjs6-Example/blob/master/Combination/pairwise.md)
+    + [race](https://github.com/HK-Zhang/Rxjs6-Example/blob/master/Combination/race.md)
+    + [startWith](https://github.com/HK-Zhang/Rxjs6-Example/blob/master/Combination/startWith.md)
+    + [withLatestFrom](https://github.com/HK-Zhang/Rxjs6-Example/blob/master/Combination/withLatestFrom.md)
     + [zip](https://github.com/HK-Zhang/Rxjs6-Example/blob/master/Combination/zip.md)
 
 2. Filter
